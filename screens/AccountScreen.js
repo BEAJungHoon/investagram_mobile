@@ -5,6 +5,7 @@ import RoundButton from "../components/RoundButton";
 class AccountScreen extends React.Component {
     render() {
         return (
+            //sdfdsf
             <View style={styles.accountscreen}>
                 <Text>Account Screen</Text>
                 <RoundButton
